@@ -895,12 +895,12 @@
                                 {
                                  "name":"focusable",
                                  "type":"bool",
-                                 "value":true
+                                 "value":false
                                 }, 
                                 {
                                  "name":"jitsiRoom",
                                  "type":"string",
-                                 "value":"MeetingRoom"
+                                 "value":"MeetingRoomHall"
                                 }, 
                                 {
                                  "name":"jitsiTrigger",
@@ -913,7 +913,7 @@
                                  "value":1
                                 }],
                          "rotation":0,
-                         "type":"",
+                         "type":"area",
                          "visible":true,
                          "width":1432,
                          "x":164.257309941521,

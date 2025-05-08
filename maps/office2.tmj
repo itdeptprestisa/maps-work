@@ -890,27 +890,22 @@
                         {
                          "height":804,
                          "id":41,
-                         "name":"townhall jitsi",
+                         "name":"hall-room",
                          "properties":[
                                 {
-                                 "name":"focusable",
+                                 "name":"group-call",
                                  "type":"bool",
-                                 "value":false
+                                 "value":true
                                 }, 
                                 {
                                  "name":"jitsiRoom",
                                  "type":"string",
-                                 "value":"MeetingRoomHall"
+                                 "value":"hall-room"
                                 }, 
                                 {
-                                 "name":"jitsiTrigger",
+                                 "name":"type",
                                  "type":"string",
-                                 "value":"onaction"
-                                }, 
-                                {
-                                 "name":"zoom_margin",
-                                 "type":"float",
-                                 "value":1
+                                 "value":"jitsiRoom"
                                 }],
                          "rotation":0,
                          "type":"area",

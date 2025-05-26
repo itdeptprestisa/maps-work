@@ -1799,13 +1799,13 @@
         {
          "draworder":"topdown",
          "id":122,
-		 "type":"sound",
          "name":"room",
          "objects":[
                 {
                  "height":224,
                  "id":43,
                  "name":"IT",
+				 "type":"sound",
                  "properties":[
                         {
                          "name":"zone",

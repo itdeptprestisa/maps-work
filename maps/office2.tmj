@@ -1800,12 +1800,12 @@
          "draworder":"topdown",
          "id":122,
          "name":"room",
+         "type":"sound",
          "objects":[
                 {
                  "height":224,
                  "id":43,
-                 "name":"IT",
-				 "type":"sound",
+                 "name":"IT", 
                  "properties":[
                         {
                          "name":"zone",

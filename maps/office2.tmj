@@ -1916,11 +1916,11 @@
                  "height":224,
                  "id":43,
                  "name":"IT",
-"type":"sound"
                  "properties":[
                         {
                          "name":"type",
-                         "type":"string"
+                         "type":"string",
+                         "value":"sound"
                         }, 
                         {
                          "name":"zone",

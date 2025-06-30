@@ -1918,9 +1918,19 @@
                  "name":"IT",
                  "properties":[
                         {
-                         "name":"conversation",
-                         "type":"string",
-                         "value":"it_room"
+                          "name":"type",
+                          "type":"string",
+                          "value":"webrtc"
+                        },
+                        {
+                          "name":"room",
+                          "type":"string",
+                          "value":"testroom"
+                        },
+                        {
+                          "name":"volume",
+                          "type":"float",
+                          "value":1
                         }],
                  "rotation":0,
                  "type":"",
